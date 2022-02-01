@@ -1,5 +1,5 @@
 # Ardu2GridTied
-Arduino Due grid tied experiens
+Arduino Due grid tied inverter experiens
 
 ![PCB](images/Ardu2GridTied.png "PCB")
 
